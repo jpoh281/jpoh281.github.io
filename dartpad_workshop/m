@@ -1,0 +1,6 @@
+name: Flutter Festival DartPad Workshop
+type: flutter # This should be either "dart" or "flutter".
+steps:
+  - name: Prefer Const Constructor
+    directory: prefer_const_constructors
+    has_solution: true
